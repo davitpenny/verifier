@@ -1,0 +1,12 @@
+{
+  "name": "meridian-verified-bot",
+  "version": "1.0.0",
+  "description": "Grants the Verified role automatically when the Premium role is added, never removes it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
